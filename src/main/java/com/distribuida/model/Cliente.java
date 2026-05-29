@@ -12,7 +12,7 @@ public class Cliente {
     private int idCliente;
     @Column(name="cedula")
     private String cedula;
-    @Column(name="id_nombre")
+    @Column(name="nombre")
     private String nombre;
     @Column(name="apellido")
     private String apellido;
